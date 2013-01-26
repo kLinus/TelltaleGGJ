@@ -1,0 +1,22 @@
+######################################
+# Git ignore file for Global Gam Jam #
+######################################
+
+#Folders
+/Library
+/Temp
+/Builds
+
+#Project/User Preference Files
+*.sln
+*.csproj
+*.pidb
+*.userprefs
+*.user
+*.suo
+
+#OS Junk
+Thumbs.db
+.DS_Store*
+ehthumbs.db
+Icon7
